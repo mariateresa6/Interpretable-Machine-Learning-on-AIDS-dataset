@@ -1,3 +1,6 @@
 # Interpretable-Machine-Learning-on-AIDS-Dataset
-The aim of this work is to understand how a machine learning model take decisions and make predictions. Interpretable Machine Learning methods allow you to pass from a black-box model to a white box one.
+The current century is caracterized by a huge scientific development and the Artificial Intelligence is one of the most relevant keys, since it revolutioned many fields of studies. The aim of this work is to understand how a machine learning model take decisions and make predictions. Machine Learning and Deep Learning belong to Artificial Intelligence (AI) and focuses on the development of algorithms and models capable of learning from data while improving their performance over time, without being explicitly programmed to perform specific tasks. 
+However, for many Machine Learning models, the learning process is incomprehensible to the human mind, as the latter is often characterized by a large number of iterations, parameters and processes that the human being is unable to concretely analyze. For this reason, these complex models are defined black-box models. This paper specifies some of the main approaches, algorithms and techniques used to create predictive models and analyze complex data, focusing in particular on the importance of interpretation and transparency in Machine Learning and Deep Learning models.
+Interpretable Machine Learning methods allow you to pass from a black-box model to a white box one. 
 ![image](https://github.com/user-attachments/assets/63783167-cfdf-4aba-b8f6-9f05ec49aeb2)
+
